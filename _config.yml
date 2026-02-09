@@ -23,14 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.png" # 请确保在 images 文件夹下有这张照片，或者修改为您的照片文件名
   name             : "Lingxu Chen"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "1361717338@qq.com" 
+  pronouns         : "she/her" # 如果您是男生请填 he/him，女生填 she/her，不想显示可留空
+  bio              : "M.S. student in Computer Science at Peking University. Focus on LLMs."
+  location         : "Beijing, China"
+  employer         : "Peking University"
+  uri              : # 这里通常留空，或者填您的 GitHub/LinkedIn 链接
 
 
   # Repositories and software development
